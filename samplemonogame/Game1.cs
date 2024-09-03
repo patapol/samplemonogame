@@ -15,6 +15,7 @@ namespace samplemonogame
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
             ///
+            //
         }
 
         protected override void Initialize()
